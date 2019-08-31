@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TD-React-Challenge-Test-1/static/css/main.0a9e3bf5.chunk.css",
-    "main.js": "/TD-React-Challenge-Test-1/static/js/main.ebaf5e18.chunk.js",
-    "main.js.map": "/TD-React-Challenge-Test-1/static/js/main.ebaf5e18.chunk.js.map",
-    "runtime~main.js": "/TD-React-Challenge-Test-1/static/js/runtime~main.8580a06d.js",
-    "runtime~main.js.map": "/TD-React-Challenge-Test-1/static/js/runtime~main.8580a06d.js.map",
-    "static/js/2.205747f1.chunk.js": "/TD-React-Challenge-Test-1/static/js/2.205747f1.chunk.js",
-    "static/js/2.205747f1.chunk.js.map": "/TD-React-Challenge-Test-1/static/js/2.205747f1.chunk.js.map",
-    "index.html": "/TD-React-Challenge-Test-1/index.html",
-    "precache-manifest.14c61b6dadeb3d030d0b3f77a9e9f401.js": "/TD-React-Challenge-Test-1/precache-manifest.14c61b6dadeb3d030d0b3f77a9e9f401.js",
-    "service-worker.js": "/TD-React-Challenge-Test-1/service-worker.js",
-    "static/css/main.0a9e3bf5.chunk.css.map": "/TD-React-Challenge-Test-1/static/css/main.0a9e3bf5.chunk.css.map",
-    "static/media/logo.svg": "/TD-React-Challenge-Test-1/static/media/logo.5d5d9eef.svg"
+    "main.css": "/travel-risk/static/css/main.0a9e3bf5.chunk.css",
+    "main.js": "/travel-risk/static/js/main.55a4b98b.chunk.js",
+    "main.js.map": "/travel-risk/static/js/main.55a4b98b.chunk.js.map",
+    "runtime~main.js": "/travel-risk/static/js/runtime~main.0431558d.js",
+    "runtime~main.js.map": "/travel-risk/static/js/runtime~main.0431558d.js.map",
+    "static/js/2.205747f1.chunk.js": "/travel-risk/static/js/2.205747f1.chunk.js",
+    "static/js/2.205747f1.chunk.js.map": "/travel-risk/static/js/2.205747f1.chunk.js.map",
+    "index.html": "/travel-risk/index.html",
+    "precache-manifest.84c1749752bacf15663b8da764ea02f8.js": "/travel-risk/precache-manifest.84c1749752bacf15663b8da764ea02f8.js",
+    "service-worker.js": "/travel-risk/service-worker.js",
+    "static/css/main.0a9e3bf5.chunk.css.map": "/travel-risk/static/css/main.0a9e3bf5.chunk.css.map",
+    "static/media/logo.svg": "/travel-risk/static/media/logo.5d5d9eef.svg"
   }
 }
