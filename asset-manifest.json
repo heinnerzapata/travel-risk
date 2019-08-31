@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/travel-risk/static/css/main.0a9e3bf5.chunk.css",
-    "main.js": "/travel-risk/static/js/main.55a4b98b.chunk.js",
-    "main.js.map": "/travel-risk/static/js/main.55a4b98b.chunk.js.map",
+    "main.css": "/travel-risk/static/css/main.0b3737b1.chunk.css",
+    "main.js": "/travel-risk/static/js/main.cda07467.chunk.js",
+    "main.js.map": "/travel-risk/static/js/main.cda07467.chunk.js.map",
     "runtime~main.js": "/travel-risk/static/js/runtime~main.0431558d.js",
     "runtime~main.js.map": "/travel-risk/static/js/runtime~main.0431558d.js.map",
-    "static/js/2.205747f1.chunk.js": "/travel-risk/static/js/2.205747f1.chunk.js",
-    "static/js/2.205747f1.chunk.js.map": "/travel-risk/static/js/2.205747f1.chunk.js.map",
+    "static/css/2.d2c8e8a2.chunk.css": "/travel-risk/static/css/2.d2c8e8a2.chunk.css",
+    "static/js/2.e232b6d6.chunk.js": "/travel-risk/static/js/2.e232b6d6.chunk.js",
+    "static/js/2.e232b6d6.chunk.js.map": "/travel-risk/static/js/2.e232b6d6.chunk.js.map",
     "index.html": "/travel-risk/index.html",
-    "precache-manifest.84c1749752bacf15663b8da764ea02f8.js": "/travel-risk/precache-manifest.84c1749752bacf15663b8da764ea02f8.js",
+    "precache-manifest.7f4b60bb3276f31fc93818512103e035.js": "/travel-risk/precache-manifest.7f4b60bb3276f31fc93818512103e035.js",
     "service-worker.js": "/travel-risk/service-worker.js",
-    "static/css/main.0a9e3bf5.chunk.css.map": "/travel-risk/static/css/main.0a9e3bf5.chunk.css.map",
-    "static/media/logo.svg": "/travel-risk/static/media/logo.5d5d9eef.svg"
+    "static/css/2.d2c8e8a2.chunk.css.map": "/travel-risk/static/css/2.d2c8e8a2.chunk.css.map",
+    "static/css/main.0b3737b1.chunk.css.map": "/travel-risk/static/css/main.0b3737b1.chunk.css.map",
+    "static/media/back.jpg": "/travel-risk/static/media/back.7600089c.jpg",
+    "static/media/loading.gif": "/travel-risk/static/media/loading.556e9ff8.gif"
   }
 }
