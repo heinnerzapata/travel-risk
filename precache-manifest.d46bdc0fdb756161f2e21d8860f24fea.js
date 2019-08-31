@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89825ad2bd934eefbe172d1eaaccad0c",
+    "revision": "6634d0f3b26c8bd1038d1a570df03ec2",
     "url": "/travel-risk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travel-risk/static/css/2.d2c8e8a2.chunk.css"
   },
   {
-    "revision": "f2add458aceee360efac",
+    "revision": "c0afeadc6f633310241d",
     "url": "/travel-risk/static/css/main.36867834.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travel-risk/static/js/2.e232b6d6.chunk.js"
   },
   {
-    "revision": "f2add458aceee360efac",
-    "url": "/travel-risk/static/js/main.c1f133a7.chunk.js"
+    "revision": "c0afeadc6f633310241d",
+    "url": "/travel-risk/static/js/main.26c163da.chunk.js"
   },
   {
     "revision": "f3e4507f45a73fd8028b",
